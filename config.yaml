@@ -1,0 +1,9 @@
+token: 123456789:ABCDEF00000
+loglevel: INFO
+chat: -1234567890
+captcha:
+  timeout: 60
+  msg_limit: 5
+db:
+  users: users.json
+  messages: messages.db
